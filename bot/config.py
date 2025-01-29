@@ -9,16 +9,16 @@ dirName = os.path.basename(dirPath)
 
 
 class TG_CONFIG:
-    api_id = 
+    api_id = "22448257"
 
-    api_hash = ""
+    api_hash = "7f8e2def57731a61f07b264e13c130a1"
 
-    bot_token = ""
+    bot_token = "7791306887:AAGFsRuBKbYzLsv0YHdx5k6inZSh-QZvWXI"
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 6360672597]
+    sudo_users = [7488756971]
 
-    session = "conan76_web_dl_bot"
+    session = "BQBZC18z_wtcGS9nnjMcLkDb_PhYqNKPSKA093QqrNdiqKJuAdBpus_5eCNj4rvUeia7RNmSMqpJ1GyaxgYd0xTbB1dYIQU5Ugx_33t9vCxMHMGIfOgJ2gdH0iJ3-y_rEmQ6RK7M6G8wCQrczwBAHag6YHZnsc5JLnWmCVKu6rUer0v_mhnlzbG2dKrQVSeJIgf3DOx8v9yCXOqU0ht5WSBmWjpWfqr5WQfL8NVyXSxGH5ZlsGYOJBDXqhvwXEvWmZIPiO5ky_68I8LjkbZedm6dnqTOiY5500BgEerPN8MJblERMp_XhpT18jTQRa-dBNmPSSNEN6HVOisJnPFSL40KAAAAAb5dXOsA"
 
     bot_creater = "Conan76"  # Don't Remove if you Respect the DEV
 
@@ -83,11 +83,11 @@ class FILENAME_CONFIG:
     language_order = ['hi', 'ta', 'te', 'bn', 'gu', 'pa', 'as', 'or',
                     'ml', 'mr', 'kn', 'th', 'ja', 'th', 'id', 'ms', 'ko', 'bho', 'bh', 'en']
 
-    default_group_tag = "RV" # Don't change it if you Respect the DEV
+    default_group_tag = "DT" # Don't change it if you Respect the DEV
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '1984763765': 'Conan76',
+        '22448257': 'Sandy',
         '6360672597' : 'RV'
     }
 
