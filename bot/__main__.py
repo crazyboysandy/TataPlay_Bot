@@ -12,10 +12,10 @@ from bot.helpers.utils import post_to_telegraph
 import datetime
 
 app = Client(
-    TG_CONFIG.session,
-    bot_token=TG_CONFIG.bot_token,
-    api_id=TG_CONFIG.api_id,
-    api_hash=TG_CONFIG.api_hash,
+    TG_CONFIG.BQBZC18z_wtcGS9nnjMcLkDb_PhYqNKPSKA093QqrNdiqKJuAdBpus_5eCNj4rvUeia7RNmSMqpJ1GyaxgYd0xTbB1dYIQU5Ugx_33t9vCxMHMGIfOgJ2gdH0iJ3-y_rEmQ6RK7M6G8wCQrczwBAHag6YHZnsc5JLnWmCVKu6rUer0v_mhnlzbG2dKrQVSeJIgf3DOx8v9yCXOqU0ht5WSBmWjpWfqr5WQfL8NVyXSxGH5ZlsGYOJBDXqhvwXEvWmZIPiO5ky_68I8LjkbZedm6dnqTOiY5500BgEerPN8MJblERMp_XhpT18jTQRa-dBNmPSSNEN6HVOisJnPFSL40KAAAAAb5dXOsA,
+    bot_token=TG_CONFIG.7791306887:AAGFsRuBKbYzLsv0YHdx5k6inZSh-QZvWXI,
+    api_id=TG_CONFIG.22448257,
+    api_hash=TG_CONFIG.7f8e2def57731a61f07b264e13c130a1,
     sleep_threshold=30
 )
 
